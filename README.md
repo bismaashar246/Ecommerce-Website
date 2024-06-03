@@ -10,12 +10,19 @@ It also caters to the admin entity who can add new and unique products or delete
 It uses the following:
 
 React - for front-end and code implementation
+
 Firebase - to store data at the backend (Products and Orders)
+
 Redux - to maintain the add, delete, and update functionality for the cart and make it available throughout the code
+
 Local Storage - to directly set the user and its mode i.e. admin or customer
+
 Tailwind - for overall styling
+
 Ant Design -  for AntHome page styling
+
 Protected Routing - for security purposes
+
 Formik - to handle the form functionality
 
 **Application Flow:**
